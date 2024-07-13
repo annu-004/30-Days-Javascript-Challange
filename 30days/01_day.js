@@ -72,7 +72,7 @@
     let challenge = { "30DaysOfJS" : "with Hitesh Sir"};
     let week = [1,2,3,4];
 
-    console.log([myName, typeof myName , myage , typeof myage , isStudent , typeof isStudent , challenge , typeof challenge , week , typeof week ]);
+    console.table([myName, typeof myName , myage , typeof myage , isStudent , typeof isStudent , challenge , typeof challenge , week , typeof week ]);
 
 
 //  2. Reassignment Demo :
