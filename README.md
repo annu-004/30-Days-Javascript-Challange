@@ -4,9 +4,7 @@ Welcome to the 30 Days of JavaScript Challenge! This repository is designed to h
 
 How to Use This Repository
 Clone the Repository:
-git clone https://github.com/annu-004/30-days-javascript-challenge.git
-cd 30-days-javascript-challenge
-
+git clone https://github.com/annu-004/30-Days-Javascript-Challange.git
 
 Follow Daily Instructions:
 Each day has its own directory (e.g., Day1, Day2, etc.) containing the challenge for that day.
