@@ -4,14 +4,14 @@
 // Activity 1 : If-Else Statements 
 // Task 1 :
 
-    let num = 11;
+    let num = 111;
     if (num > 0 ){
         console.log(`The number ${num} is positive`);
     }
-    else if(num = 0){
+    else if(num == 0){
         console.log(`The number ${num} is zero`);
     }
-    else (num < 0){
+    else if (num < 0);{
         console.log(`The number ${num} is negative`);
     }
 
